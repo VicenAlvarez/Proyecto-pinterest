@@ -82,7 +82,7 @@ export function createHeader() {
   logo.setAttribute('aria-label', 'Pinterest: volver al inicio')
 
   const logoImage = document.createElement('img')
-  logoImage.src = '/favicon.svg'
+  logoImage.src = '/logo.png'
   logoImage.alt = ''
   logoImage.width = 24
   logoImage.height = 24
